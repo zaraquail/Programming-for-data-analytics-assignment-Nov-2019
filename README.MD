@@ -4,7 +4,9 @@ Student: Zara Quail G00376517
 
 This Git Repository includes a gitignore file and a Jupyter notebook containing the details of my description and demonstration of aspects of the numpy-random package.
 
-To run the Jupyter file, open the command line interface and type in "jupyter notebook".
+To work with a Jupyter Notebook file in GitHub, see advise notes at https://help.github.com/en/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github
+
+To run the Jupyter file on my local computer, open the command line interface and type in "jupyter notebook".
 
  To access the notebook, open this file in a browser:
         file:///C:/Users/Zara/AppData/Roaming/jupyter/runtime/nbserver-10676-open.html
